@@ -1,6 +1,28 @@
 {
-  "version": "1.0.0",
-  "title": "EL COMIENZO",
-  "date": "12/09/2026",
-  "description": "El mundo exterior comienza a cambiar."
+  "updates": [
+    {
+      "version": "1.0.0",
+      "title": "EL COMIENZO",
+      "date": "12/09/2026",
+      "description": "El mundo exterior comienza a cambiar.",
+      "image": "https://...",
+      "changes": [
+        "Nuevo sistema de misiones",
+        "Nuevos NPCs",
+        "Bunker como zona segura"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "title": "LA EXPANSIÓN",
+      "date": "20/09/2026",
+      "description": "Nuevas zonas aparecen en la superficie.",
+      "image": "https://...",
+      "changes": [
+        "Nueva zona explorable",
+        "Nuevos enemigos",
+        "Nuevo NPC"
+      ]
+    }
+  ]
 }
