@@ -1,11 +1,10 @@
 {
   "updates": [
     {
-      "name": "EL COMIENZO",
-      "fecha": "12/09/2026",
-      "status": "SERVIDOR EN BETA",
-      "streamers": "Brayen009 | MaxiiJK",
-      "creators": "MaxiiARG • Uzicrack51 • MStudios"
+      "title": "EL COMIENZO",
+      "description": "El mundo exterior comienza a cambiar.",
+      "partners": "Brayen009 | MaxiiJK",
+      "by": "MaxiiARG • Uzicrack51 • MStudios"
     }
   ]
 }
